@@ -1,0 +1,14 @@
+[0629/184826.994:ERROR:process_reader_win.cc(188)] ResumeThread: The parameter is incorrect. (0x57)
+[0629/184830.669:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184830.670:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184830.670:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184830.670:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184830.670:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184830.670:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184830.670:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184831.273:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184831.273:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0629/184831.273:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0629/184837.052:ERROR:exception_snapshot_win.cc(98)] thread ID 8724 not found in process
+[0629/184837.242:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0717/192417.188:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

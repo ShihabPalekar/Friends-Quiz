@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+    align-content: center;
+    font-family: Verdana;
+    background-image: url("./Images/img25456.jpg");
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: snow;
+    font-family: cursive;
+    text-shadow: 2px 1px rgb(110, 109, 109);
+    margin-top: 11px;
+    font-size: large;
+}
+
+.quiz-card {
+    margin-left: 32%;
+    margin-right: 15%;
+    margin-top: 6%;
+    width: 11cm;
+    height: 6cm;
+    padding-bottom: 9px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.quiz-card-options {
+    display: grid;
+    grid-template-columns: repeat(2, 3fr);
+}
+
+.quiz-card-options > div {
+    padding: 15px;
+    border: solid 1px slategrey; 
+}
+
+.result-card {
+    margin-left: 32%;
+    margin-right: 15%;
+    margin-top: 6%;
+    width: 11cm;
+    height: 6cm;
+    padding-bottom: 9px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.score-remark {
+    margin-top: 45px;
+    color: darkslateblue;
+}
+
+.score-statement {
+    color: rgb(255, 123, 0);
+    margin-top: 8px;
+}
