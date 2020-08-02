@@ -11,12 +11,12 @@ const quizQuestions = [
     },
     {
         id: 2,
-        question: "What is the name of Joey's daytime TV show?",
-        optA: "Scrubs",
-        optB: "General Hospital",
-        optC: "Happy Days",
-        optD: "Days Of Our Lives",
-        answ: "Days Of Our Lives"
+        question: `Who said this - "Did my back hurt your knife"?`,
+        optA: "Monica",
+        optB: "Chandler",
+        optC: "Rachel",
+        optD: "Phoebe",
+        answ: "Rachel"
     },
     {
         id: 3,
@@ -29,21 +29,21 @@ const quizQuestions = [
     },
     {
         id: 4,
-        question: "How many women give birth before Rachel?",
-        optA: "Four",
-        optB: "Three",
-        optC: "Five",
-        optD: "Seven",
-        answ: "Five"
+        question: "Whom did Rachel leave at the wedding altar?",
+        optA: "Ross",
+        optB: "Tag",
+        optC: "Barry",
+        optD: "Joey",
+        answ: "Barry"
     },
     {
         id: 5,
-        question: `Who said this - "Did my back hurt your knife"?`,
-        optA: "Monica",
-        optB: "Chandler",
-        optC: "Rachel",
-        optD: "Phoebe",
-        answ: "Rachel"
+        question: "What kind of soft toy does Joey own?",
+        optA: "Panda",
+        optB: "Duck",
+        optC: "Bear",
+        optD: "Penguin",
+        answ: "Penguin"
     },
     {
         id: 6,
@@ -65,12 +65,12 @@ const quizQuestions = [
     },
     {
         id: 8,
-        question: "What is the name of Phoebe's twin sister?",
-        optA: "Amy",
-        optB: "Emily",
-        optC: "Mona",
-        optD: "Ursula",
-        answ: "Ursula"
+        question: "What does Ross come back from China with in 2nd season?",
+        optA: "A monkey",
+        optB: "An accent",
+        optC: "A girlfriend",
+        optD: "A job offer",
+        answ: "A girlfriend"
     },
     {
         id: 9,
@@ -83,11 +83,11 @@ const quizQuestions = [
     },
     {
         id: 10,
-        question: "Who smoked pot in college?",
-        optA: "Ross",
-        optB: "Chandler",
-        optC: "Monica",
-        optD: "Phoebe",
+        question: "What is the name of Ross & Rachel's daughter?",
+        optA: "Emily",
+        optB: "Amy",
+        optC: "Emma",
+        optD: "Ashley",
         answ: "Ross"
     }
 ]

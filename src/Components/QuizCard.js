@@ -28,10 +28,12 @@ function QuizCard(props) {
     }
     
     return(
-        <Card className= "quiz-card">
+        <Card className= "quiz-card" >
             <CardContent>
-                <h3>{props.questionDataObject.question}</h3>
-                <div className= "quiz-card-options">
+                <div className="quiz-question">
+                    <h3>{props.questionDataObject.question}</h3>
+                </div>
+                <div className= "quiz-options">
                     <div 
                         style= {{ margin: 5, backgroundColor : "" }} 
                         onClick= {handleClick(props.questionDataObject.optA)}
